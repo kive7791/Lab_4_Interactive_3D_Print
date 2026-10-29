@@ -2,7 +2,7 @@
 A project that involves creating an interactive 3D-printed object (bunny) using Fusion 360, an ESP32, a photoresistor (LDR), and a vibration motor. The system responds to changes in light by activating different vibration patterns. When the sensor detects complete darkness, a sound effect is played on the connected computer.
 
 ## Demo Video link
-Youtube link: [Lab 4 video](https://youtube.com/shorts/a4dG1HSMP)
+Youtube link: [Lab 4 video](https://youtube.com/shorts/r5f1UFw0_mo?feature=share)
 
 If the link is not working, please go to the folder titled "Assets" and watch it there.
 
