@@ -15,8 +15,8 @@ const int motorIN1 = 12;
 const int motorIN2 = 14;
 
 // Light thresholds
-const int darknessThreshold = 700;
-const int completeDarkThreshold = 270;
+const int darknessThreshold = 800;
+const int completeDarkThreshold = 320;
 
 const int motorStrength = 220;
 
